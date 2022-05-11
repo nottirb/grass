@@ -1,0 +1,5 @@
+project: grass
+target: from_string_parsing
+
+cmds:
+    - cmd: /from_string_parsing
